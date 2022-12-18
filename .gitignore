@@ -1,8 +1,3 @@
 streamlitenv
-
-# Ignore pickles
-*.pkl
-**/*.pkl
-
 .streamlit
 requirments.txt
