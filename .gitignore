@@ -1,6 +1,5 @@
 streamlitenv
 
-Model
 # Ignore pickles
 *.pkl
 **/*.pkl
